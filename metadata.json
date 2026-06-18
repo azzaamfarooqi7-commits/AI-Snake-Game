@@ -1,0 +1,6 @@
+{
+  "name": "Slither Arcade",
+  "description": "A classic retro-styled snake game named Slither Arcade featuring starting difficulty levels, active level-ups, synthesized audio, premium custom skins, tactile arrow d-pad, and a spacious layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

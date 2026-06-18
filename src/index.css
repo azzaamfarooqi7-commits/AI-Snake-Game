@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Orbitron:wght@400;500;700;900&family=JetBrains+Mono:wght@400;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Orbitron", ui-sans-serif, system-ui, sans-serif;
+  --font-retro: "Press Start 2P", cursive;
+  --font-mono: 'JetBrains Mono', monospace;
+}
